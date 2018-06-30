@@ -1,4 +1,4 @@
-### dev.os_in_rust
+### dev.os
 An Experimental on OS with Rust
 
 
